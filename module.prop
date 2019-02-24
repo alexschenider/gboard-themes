@@ -1,7 +1,8 @@
 id=gboard-themes
-name=Gboard Themes
-version=v14.6
-versionCode=146
+name=Rboard Themes
+version=v15
+versionCode=150
 author=RKBDI
-description=Pack of gboard themes by RKBDI working with BETA NOW
-minMagisk=17000
+description=description=Pack of gboard themes by RKBDI working with BETA NOW
+support=t.me/gboardthemes
+minMagisk=1530
